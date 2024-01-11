@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #9f536d;
+    padding: 0;
+}
+
